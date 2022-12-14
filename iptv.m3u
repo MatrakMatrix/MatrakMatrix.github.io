@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",HALK TV HD
+https://mn-nl.mncdn.com/blutv_halktv2/live_720p2000000kbps/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg" group-title="Undefined",NAT GEO WILD +1 HD
+http://red.ipfox.org:8080/Karam2022/Karam2023/49837?checkedby:iptvcat.com
